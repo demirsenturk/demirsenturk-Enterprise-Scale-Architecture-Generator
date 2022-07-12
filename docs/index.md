@@ -1,4 +1,4 @@
-## Welcome to Zeynep Pages
+## Welcome to Github Pages
 
 You can use the [editor on GitHub](https://github.com/demirsenturk/demirsenturk-Enterprise-Scale-Architecture-Generator/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
